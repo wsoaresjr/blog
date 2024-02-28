@@ -14,6 +14,27 @@
     <loc>http://localhost:4321/posts/emoji-support/</loc>
     <lastmod>2020-10-01T17:55:28+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/projects/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/sobre/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/sobre/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/projects/2024-02-28-sobre/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/tags/def/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
@@ -23,17 +44,8 @@
     <loc>http://localhost:4321/posts/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:4321/tags/xyz/</loc>
     <lastmod>2021-04-15T23:39:49+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
@@ -71,8 +83,6 @@
     <loc>http://localhost:4321/projects/bludhaven/</loc>
   </url><url>
     <loc>http://localhost:4321/projects/hydra/</loc>
-  </url><url>
-    <loc>http://localhost:4321/projects/</loc>
   </url><url>
     <loc>http://localhost:4321/projects/tatooine/</loc>
   </url>
