@@ -51,6 +51,13 @@
       <description>R Markdown&#xD;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars)&#xD;## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:4321/projects/2024-02-28-sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/projects/2024-02-28-sobre/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Blüdhaven</title>
       <link>http://localhost:4321/projects/bludhaven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
