@@ -55,7 +55,7 @@ menu:
       pre: <span data-feather='book'></span>
       url: /posts/
       weight: 2
-    - name: Projects
+    - name: Projetos
       pre: <span data-feather='code'></span>
       url: /projects/
       weight: 3
